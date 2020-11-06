@@ -9,3 +9,4 @@ Builds an agent per these instructions https://docs.microsoft.com/en-us/azure/de
 Also installed
 
 * aws cli
+* nodejs lts
